@@ -107,7 +107,7 @@ lady = Category.create(name: "ladies", ancestry: nil)
                             {name: "その他"}
                             ])
 
-
+test
 
                           
 
